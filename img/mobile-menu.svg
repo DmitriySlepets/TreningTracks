@@ -1,0 +1,20 @@
+<svg width="28" height="18" viewBox="0 0 28 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group 3</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-2731 498)">
+<g id="Group 3">
+<g id="Line">
+<use xlink:href="#path0_stroke" transform="translate(2731.64 -495.727)" fill="#FFFFFF"/>
+</g>
+<g id="Line">
+<use xlink:href="#path0_stroke" transform="translate(2731.64 -488.091)" fill="#FFFFFF"/>
+</g>
+<g id="Line">
+<use xlink:href="#path0_stroke" transform="translate(2731.64 -480.455)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 0 -1.11022e-16L 26.7273 -1.11022e-16L 26.7273 -2L 0 -2L 0 -1.11022e-16Z"/>
+</defs>
+</svg>
